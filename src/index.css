@@ -1,0 +1,16 @@
+* {
+  align-items: center;
+  font-size: 16px;
+  padding: 0;
+}
+
+.App>div {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+button {
+  padding: 0.2rem 0.5rem;
+  cursor: pointer;
+}
